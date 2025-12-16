@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenasarma-baskarakurukkal&label=Profile%20views&color=0e75b6&style=flat" alt="praveenasarma-baskarakurukkal" /> </p>
 
-- 🔭 I’m currently working on **Research Data Collection platform**
+- 🔭 I’m currently focusing on my final year project **Semantic similarity and uncertainty quantification**.
 
-- 🌱 I’m currently learning **Full stack web development**
-
-- 💬 Ask me about **python, react**
-
-- 📫 How to reach me **praveenasarma2609@gmail.com**
+- 📫 How to reach me **baskarakurukkal.21@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
